@@ -28,3 +28,5 @@ https://github.com/cjfuentes-datascience/Page-Visits-Funnel-Python
 https://github.com/cjfuentes-datascience/Fraud-Detection-Python
 13. A-B-Testing-for-ShoeFly.com
 https://github.com/cjfuentes-datascience/A-B-Testing-for-ShoeFly.com-Python
+14. Exploring-Mushrooms
+https://github.com/cjfuentes-datascience/Exploring-Mushrooms-Python
