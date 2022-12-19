@@ -42,3 +42,7 @@ https://github.com/cjfuentes-datascience/Fraud-Detection-Python
 
 14. Exploring Mushrooms: A project exploring and analyzing mushroom data.
 https://github.com/cjfuentes-datascience/Exploring-Mushrooms-Python
+
+15. Airline-Analysis: https://github.com/cjfuentes-datascience/Airline-Analysis-Python
+
+16. Cleaning-US-Census-Data: https://github.com/cjfuentes-datascience/Cleaning-US-Census-Data-Python
