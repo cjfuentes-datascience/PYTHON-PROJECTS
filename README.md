@@ -2,7 +2,10 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
-- Honey-Production: https://github.com/cjfuentes-datascience/Honey-Production-Python
+- Women's-E-Commerce-Clothing: Data analysis project that uses Python to explore and visualize data from a clothing company's e-commerce website.  https://github.com/cjfuentes-datascience/Women-s-E-Commerce-Clothing
+
+- Honey-Production: Data analysis project that uses Python to explore and visualize data on honey production in the United States.
+ https://github.com/cjfuentes-datascience/Honey-Production-Python
 
 - Linear Regression at Codecademy: A project involving the implementation of linear regression in Python.
 https://github.com/cjfuentes-datascience/Linear-Regression-at-Codecademy-Python
