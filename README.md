@@ -2,6 +2,8 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
+- Tennis-Ace: Creating a linear regression model that predicts the outcome for a tennis player based on their playing habits. https://github.com/cjfuentes-datascience/Tennis-Ace-Python
+
 - Women's-E-Commerce-Clothing: Data analysis project that uses Python to explore and visualize data from a clothing company's e-commerce website.  https://github.com/cjfuentes-datascience/Women-s-E-Commerce-Clothing
 
 - Honey-Production: Data analysis project that uses Python to explore and visualize data on honey production in the United States.
