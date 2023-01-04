@@ -2,6 +2,8 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
+- Simple-Linear-Regression-Model: https://github.com/cjfuentes-datascience/Simple-Linear-Regression-Model-Python
+
 - Beginner-Machine-Learning-Project: https://github.com/cjfuentes-datascience/Beginner-Machine-Learning-Project-Python
 
 - Tennis-Ace: Creating a linear regression model that predicts the outcome for a tennis player based on their playing habits. https://github.com/cjfuentes-datascience/Tennis-Ace-Python
