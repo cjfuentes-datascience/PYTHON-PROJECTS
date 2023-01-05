@@ -2,6 +2,8 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
+- Predicting-Insurance-Charges: https://github.com/cjfuentes-datascience/Predicting-Insurance-Charges-Python
+
 - Simple-Linear-Regression-Model: https://github.com/cjfuentes-datascience/Simple-Linear-Regression-Model-Python
 
 - Beginner-Machine-Learning-Project: https://github.com/cjfuentes-datascience/Beginner-Machine-Learning-Project-Python
