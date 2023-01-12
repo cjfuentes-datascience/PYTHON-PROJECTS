@@ -2,6 +2,10 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
+- Multiclass-Classification: https://github.com/cjfuentes-datascience/Multiclass-Classification-Python
+
+- Logistical-Regression: https://github.com/cjfuentes-datascience/Logistical-Regression-Python
+
 - Predicting-Insurance-Charges: https://github.com/cjfuentes-datascience/Predicting-Insurance-Charges-Python
 
 - Simple-Linear-Regression-Model: https://github.com/cjfuentes-datascience/Simple-Linear-Regression-Model-Python
