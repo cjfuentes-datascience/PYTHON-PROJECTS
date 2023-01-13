@@ -2,15 +2,22 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
-- Multiclass-Classification: https://github.com/cjfuentes-datascience/Multiclass-Classification-Python
+- Fashion-Multiclass-Classification-Logistic-Regression: This project uses logistic regression to classify images of clothing into different categories
+ https://github.com/cjfuentes-datascience/Fashion-Multiclass-Classification-Logistic-Regression-Python
 
-- Logistical-Regression: https://github.com/cjfuentes-datascience/Logistical-Regression-Python
+- Multiclass-Classification: This project uses various machine learning algorithms to classify instances into one of multiple classes
+ https://github.com/cjfuentes-datascience/Multiclass-Classification-Python
 
-- Predicting-Insurance-Charges: https://github.com/cjfuentes-datascience/Predicting-Insurance-Charges-Python
+- Logistical-Regression: The goal of this project is to implement logistic regression algorithm on multiple datasets and compare the results
+ https://github.com/cjfuentes-datascience/Logistical-Regression-Python
 
-- Simple-Linear-Regression-Model: https://github.com/cjfuentes-datascience/Simple-Linear-Regression-Model-Python
+- Predicting-Insurance-Charges: This project uses logistic regression to predict insurance charges
+ https://github.com/cjfuentes-datascience/Predicting-Insurance-Charges-Python
 
-- Beginner-Machine-Learning-Project: https://github.com/cjfuentes-datascience/Beginner-Machine-Learning-Project-Python
+- Simple-Linear-Regression-Model: The goal of this project is to demonstrate the basic implementation of linear regression and its usage https://github.com/cjfuentes-datascience/Simple-Linear-Regression-Model-Python
+
+- Beginner-Machine-Learning-Project: This project is a beginner's project that covers the basics of machine learning and data analysis
+ https://github.com/cjfuentes-datascience/Beginner-Machine-Learning-Project-Python
 
 - Tennis-Ace: Creating a linear regression model that predicts the outcome for a tennis player based on their playing habits. https://github.com/cjfuentes-datascience/Tennis-Ace-Python
 
