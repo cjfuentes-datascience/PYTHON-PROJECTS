@@ -2,7 +2,7 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
-- Weekly-Report: https://github.com/cjfuentes-datascience/Weekly-Report-Python
+- Weekly-Report: This project aims to automate the weekly report creation process using the pandas library in Python, reducing errors and providing flexibility and scalability. https://github.com/cjfuentes-datascience/Weekly-Report-Python
 
 - Compare-Machine-Learning-Classifiers: This project demonstrates how to compare the performance of several machine learning classifiers in Python using the scikit-learn package. https://github.com/cjfuentes-datascience/Compare-Machine-Learning-Classifiers-Python
 
