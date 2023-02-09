@@ -2,6 +2,8 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
+- Loan-Repayment-Prediction: https://github.com/cjfuentes-datascience/Loan-Repayment-Prediction-Python
+
 - KNN-Diabetes: https://github.com/cjfuentes-datascience/KNN-Diabetes-Python
 
 - Predicting-Credit-Card-Fraud: https://github.com/cjfuentes-datascience/Predicting-Credit-Card-Fraud-Python
