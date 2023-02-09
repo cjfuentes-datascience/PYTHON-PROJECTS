@@ -2,6 +2,8 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
+- KNN-Diabetes: https://github.com/cjfuentes-datascience/KNN-Diabetes-Python
+
 - Predicting-Credit-Card-Fraud: https://github.com/cjfuentes-datascience/Predicting-Credit-Card-Fraud-Python
 
 - Clustering-With-K-Means: https://github.com/cjfuentes-datascience/Clustering-With-K-Means-Python
