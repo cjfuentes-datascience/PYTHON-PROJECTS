@@ -2,6 +2,8 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
+- Predicting-Credit-Card-Fraud: https://github.com/cjfuentes-datascience/Predicting-Credit-Card-Fraud-Python
+
 - Clustering-With-K-Means: https://github.com/cjfuentes-datascience/Clustering-With-K-Means-Python
 
 - Weekly-Report: This project aims to automate the weekly report creation process using the pandas library in Python. https://github.com/cjfuentes-datascience/Weekly-Report-Python
