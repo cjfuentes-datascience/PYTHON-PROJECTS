@@ -2,6 +2,8 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
+- MNIST-Neural-Network: https://github.com/cjfuentes-datascience/MNIST-Neural-Network-Python
+
 - Producer-Classification-Model: https://github.com/cjfuentes-datascience/Producer-Classification-Model-Python
 
 - Loan-Repayment-Prediction: https://github.com/cjfuentes-datascience/Loan-Repayment-Prediction-Python
