@@ -18,7 +18,7 @@ Below is a collection of Python projects I've compiled and uploaded to GitHub. P
 
 - Compare-Machine-Learning-Classifiers: https://github.com/cjfuentes-datascience/Compare-Machine-Learning-Classifiers-Python
 
-- Building-a-Classification-Model: This project demonstrates how to build a simple machine learning model in Python using the scikit-learn package. The model is a classification model used to classify Iris flowers using the random forest algorithm. https://github.com/cjfuentes-datascience/Building-a-Classification-Model-Python
+- Building-a-Classification-Model: https://github.com/cjfuentes-datascience/Building-a-Classification-Model-Python
 
 - Fashion-Multiclass-Classification-Logistic-Regression-Python: https://github.com/cjfuentes-datascience/Fashion-Multiclass-Classification-Logistic-Regression-Python
 
