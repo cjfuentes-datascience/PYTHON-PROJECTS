@@ -2,6 +2,9 @@
 
 Below is a collection of Python projects I've compiled and uploaded to GitHub. Please feel free to have a look!
 
+- CNN-Neural-Network https://github.com/cjfuentes-datascience/CNN-Neural-Network-Python
+- Simple-Neural-Network: https://github.com/cjfuentes-datascience/Simple-Neural-Network-Python
+
 - MNIST-Neural-Network: https://github.com/cjfuentes-datascience/MNIST-Neural-Network-Python
 
 - Producer-Classification-Model: https://github.com/cjfuentes-datascience/Producer-Classification-Model-Python
