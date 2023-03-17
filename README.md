@@ -14,9 +14,9 @@ Below is a collection of Python projects I've compiled and uploaded to GitHub. P
 
 - Clustering-With-K-Means: https://github.com/cjfuentes-datascience/Clustering-With-K-Means-Python
 
-- Weekly-Report: This project aims to automate the weekly report creation process using the pandas library in Python. https://github.com/cjfuentes-datascience/Weekly-Report-Python
+- Weekly-Report: https://github.com/cjfuentes-datascience/Weekly-Report-Python
 
-- Compare-Machine-Learning-Classifiers: This project demonstrates how to compare the performance of several machine learning classifiers in Python using the scikit-learn package. https://github.com/cjfuentes-datascience/Compare-Machine-Learning-Classifiers-Python
+- Compare-Machine-Learning-Classifiers: https://github.com/cjfuentes-datascience/Compare-Machine-Learning-Classifiers-Python
 
 - Building-a-Classification-Model: This project demonstrates how to build a simple machine learning model in Python using the scikit-learn package. The model is a classification model used to classify Iris flowers using the random forest algorithm. https://github.com/cjfuentes-datascience/Building-a-Classification-Model-Python
 
